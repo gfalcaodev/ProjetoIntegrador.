@@ -1,0 +1,5 @@
+flask
+scikit-learn
+opencv-python
+numpy
+gunicorn
